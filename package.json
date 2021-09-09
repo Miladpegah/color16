@@ -1,0 +1,22 @@
+{
+  "name": "color16",
+  "version": "1.0.0",
+  "description": "Color16 color schemes as JS objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(solarized.base00);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miladpegah/color16.git"
+  },
+  "keywords": [
+    "color16"
+  ],
+  "author": "miladpegah <miladpegah1999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Miladpegah/color16/issues"
+  },
+  "homepage": "https://github.com/Miladpegah/color16#readme"
+}

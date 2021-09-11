@@ -39,3 +39,4 @@ export { default as twilight } from './twilight';
 export { default as blackGray } from './black-gery';
 export { default as smokeForest } from './smoke-forest';
 export { default as shadesBlue } from './shades-blue';
+export { default as spacialRed } from './spacial-red';

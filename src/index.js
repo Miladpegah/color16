@@ -42,3 +42,4 @@ export { default as shadesBlue } from './shades-blue';
 export { default as spacialRed } from './spacial-red';
 export { default as pinkyToe } from './pinky-toe';
 export { default as orangeJuice } from './orange-juice';
+export { default as blue } from './blue';

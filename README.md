@@ -10,7 +10,7 @@
 
 ### Package installaion
 
-**npm install @miladpegah/jscalendar**
+**npm install color16**
 
 ## Usage
 

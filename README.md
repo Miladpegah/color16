@@ -3,11 +3,16 @@
 [base16](https://github.com/chriskempson/base16) color schemes as JS objects.
 
 
-## Usage
+## Installation
 
+### Fast installation
 **Extract the desired color section from the library and use it in your project**
 
-- EXAMPLE
+### Package installaion
+
+**npm install @miladpegah/jscalendar**
+
+## Usage
 
 ```js
 import { solarized } from 'color16';
